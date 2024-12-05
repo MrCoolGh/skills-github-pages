@@ -1,4 +1,4 @@
 ---
-title: Welcome to my to mu humble abode
+title: Welcome to my humble abode
 ---
 
